@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+
+# Production build
+dist/
+
+# Local env files
+.env
+.env.local
+.env.*.local
+
+# IDE configurations
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Private personal files (Do not upload!)
+Linkedin Profile.pdf
+*.pdf
+resume.pdf
